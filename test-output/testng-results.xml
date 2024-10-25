@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-25T22:56:39 GMT+03:00" name="Default suite" finished-at="2024-10-25T22:57:17 GMT+03:00" duration-ms="37473">
+    <groups>
+    </groups>
+    <test started-at="2024-10-25T22:56:39 GMT+03:00" name="Default test" finished-at="2024-10-25T22:57:17 GMT+03:00" duration-ms="37473">
+      <class name="MyTests">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:MyTests@56303b57]" started-at="2024-10-25T22:56:39 GMT+03:00" name="mysetup" finished-at="2024-10-25T22:56:44 GMT+03:00" duration-ms="5346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="CreateAnAccount()[pri:1, instance:MyTests@56303b57]" started-at="2024-10-25T22:56:44 GMT+03:00" name="CreateAnAccount" finished-at="2024-10-25T22:56:51 GMT+03:00" duration-ms="6300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAnAccount -->
+        <test-method signature="LogoutTest()[pri:2, instance:MyTests@56303b57]" started-at="2024-10-25T22:56:51 GMT+03:00" name="LogoutTest" finished-at="2024-10-25T22:56:53 GMT+03:00" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method signature="LogInTest()[pri:3, instance:MyTests@56303b57]" started-at="2024-10-25T22:56:53 GMT+03:00" name="LogInTest" finished-at="2024-10-25T22:56:58 GMT+03:00" duration-ms="4910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInTest -->
+        <test-method signature="AddMenItems()[pri:4, instance:MyTests@56303b57]" started-at="2024-10-25T22:56:58 GMT+03:00" name="AddMenItems" finished-at="2024-10-25T22:57:04 GMT+03:00" duration-ms="6588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMenItems -->
+        <test-method signature="AddWomenItems()[pri:5, instance:MyTests@56303b57]" started-at="2024-10-25T22:57:04 GMT+03:00" name="AddWomenItems" finished-at="2024-10-25T22:57:17 GMT+03:00" duration-ms="12471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddWomenItems -->
+      </class> <!-- MyTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
